@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "title": "Add new Post",
+      "desc": "lorem",
+      "author": "Ehsonjon Komiljonov ",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "ehsonjon@gmail.com",
+      "password": "$2a$10$cQJlns2j0d7xEfYXHhLeFusdS3D8ALD7Tiappe4lcT/8x/IjJRVZC",
+      "first_name": "Ehsonjon",
+      "last_name": "Komiljonov ",
+      "id": 1
+    },
+    {
+      "email": "abdulloh@gmail.com",
+      "password": "$2a$10$kjQ74CcL4OVi2rQV1UuuXO1Ie5eiIxfUI4Rowwbbx/60lU3a7d3EK",
+      "first_name": "Abdulloh",
+      "last_name": "Komiljonov",
+      "id": 2
+    },
+    {
+      "email": "bunyod@gmail.com",
+      "password": "$2a$10$eY.azL7mFyaV/kkWNUgNN.Ar7DfBH4n56zCu9TrOSIR2QI.MPvuGW",
+      "first_name": "Bunyod",
+      "last_name": "Nasriddinov",
+      "id": 3
+    },
+    {
+      "email": "doinrfvr@gmail.com",
+      "password": "$2a$10$xzpCAFE5d4imxMkraLewR.enAwdHCRq0gj.7KK6c2BAmDvsp3XTvO",
+      "first_name": "fdoubev",
+      "last_name": "fdoinrver",
+      "id": 4
+    },
+    {
+      "email": "doniyor@gmail.com",
+      "password": "$2a$10$ebjqKQqnGlbGm/y340.oC.0uEFhgI0OWj8vN6CAn.IH7Ny3K4va46",
+      "first_name": "Doniyor",
+      "last_name": "Eshmamatov",
+      "id": 5
+    }
+  ]
+}
