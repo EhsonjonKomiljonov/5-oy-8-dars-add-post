@@ -1,5 +1,5 @@
 .overlay {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -21,6 +21,7 @@
   height: auto;
   padding: 25px;
   background-color: #fff;
+  border-radius: 10px;
 }
 
 .modal-btn {

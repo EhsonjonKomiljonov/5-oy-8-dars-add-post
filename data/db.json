@@ -1,12 +1,5 @@
 {
-  "posts": [
-    {
-      "title": "Add new Post",
-      "desc": "lorem",
-      "author": "Ehsonjon Komiljonov ",
-      "id": 1
-    }
-  ],
+  "posts": [],
   "users": [
     {
       "email": "ehsonjon@gmail.com",
@@ -42,6 +35,20 @@
       "first_name": "Doniyor",
       "last_name": "Eshmamatov",
       "id": 5
+    },
+    {
+      "email": "abdulloh12@gmail.com",
+      "password": "$2a$10$yFdUZulK0oa8Bm64O2uTg.vlzJAEzETVBOuz1ncag3BfcuQZlkMom",
+      "first_name": "Abdulloh",
+      "last_name": "Komiljonov",
+      "id": 6
+    },
+    {
+      "email": "abduljabbor@gmail.com",
+      "password": "$2a$10$2PSJ/OBqTTLFxQz9Pv6VzeluS2oLBiFKeQIISdYr/SXVFwtGhcUdW",
+      "first_name": "Abduljabbor",
+      "last_name": "Komiljonov",
+      "id": 7
     }
   ]
 }
